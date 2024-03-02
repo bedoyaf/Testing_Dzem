@@ -4,15 +4,20 @@ using UnityEngine;
 
 public class sktiptos : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Start is not called before the first frame update
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    // Update is not called once per frame
     void Update()
     {
         
+    }
+
+    void explode()
+    {
+
     }
 }
